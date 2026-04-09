@@ -2,7 +2,7 @@
 
 Verilog implementation of cascaded logic gates and 5-to-1 MUX on Terasic DE0. 
 **Coursework for TKU ECE: FPGA Development Platform Introduction.**
-
+"For reference only. Direct copying is not recommended for academic integrity."
 ---
 
 ### License & Copyright
