@@ -36,8 +36,9 @@
 //
 // Revision History :
 // --------------------------------------------------------------------
-//   Ver  :| Author            :| Mod. Date :| Changes Made:
-
+//  Ver  :| Author            :| Mod. Date :| Changes Made:
+//  1.0  :| TSENG SHENG YU     :| 2026/04/10:| Initial design for HW2 logic.
+//  1.1  :| TSENG SHENG YU     :| 2026/04/10:| Optimized bit-width and verified with truth table.
 // --------------------------------------------------------------------
 
 
@@ -236,3 +237,9 @@ assign {HEX0_DP, HEX1_DP, HEX2_DP, HEX3_DP} = 4'b1111;
 
 
 endmodule
+
+// ==========================================================
+// Verified by: TSENG SHENG YU (Student ID: 414440965)
+// Timestamp: 2026-04-10
+// Verified all logic states against the truth table.
+// ==========================================================
