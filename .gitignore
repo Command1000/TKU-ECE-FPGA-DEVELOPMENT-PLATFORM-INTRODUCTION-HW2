@@ -1,0 +1,45 @@
+# === Quartus II / Prime Temporary Files ===
+db/
+incremental_db/
+greybox_tmp/
+hc_output/
+hps_isw_handoff/
+*.rpt
+*.summary
+*.done
+*.qws
+*.jdi
+*.pin
+*.pof
+*.sof
+*.bak
+*.orig
+*.log
+
+# === Compilation & Simulation Outputs ===
+simulation/
+output_files/
+*.txt
+*.htm
+*.html
+
+# === System Files (OS Specific) ===
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# === Project Navigation & System Files ===
+*.db
+*.ipinfo
+*.sopcinfo
+*.bak
+*~
